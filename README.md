@@ -27,6 +27,10 @@ _**How to use**_
 4. run the app.py in terminal using the command _"streamlit run app.py"_
 5. Enter a question in the input field, press Enter or click Submit, view the AI-generated response instantly
 
+<img width="1899" height="871" alt="Screenshot 2026-01-29 112949" src="https://github.com/user-attachments/assets/76b518fb-40b9-4cc2-9003-16f21e86776e" />
+
+
+
 _**Created by: Paiyala Hyndhav**_
 
 _**This project was built to explore and demonstrate Generative AI-powered question answering using Google’s Gemini models.**_
