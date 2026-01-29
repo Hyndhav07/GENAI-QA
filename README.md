@@ -29,7 +29,7 @@ _**How to use**_
 
 <img width="1899" height="871" alt="Screenshot 2026-01-29 112949" src="https://github.com/user-attachments/assets/76b518fb-40b9-4cc2-9003-16f21e86776e" />
 
-
+_Unable to add Video file as it is more than 25MB_
 
 _**Created by: Paiyala Hyndhav**_
 
